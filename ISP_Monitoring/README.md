@@ -326,13 +326,13 @@ Log in with the configured credentials.
 
 Before you create ISP Dashboards, you would need to identify ISP interfaces from your router.
 
-For Tivona’s Network we have:
+For our Network we have:
 
 | ISP | Interface Name |
 |------|----------------|
-| Tata | default/eth1 |
-| Airtel | default/inf.4092 |
-| Jio | default/inf.4093 |
+| X | default/eth1 |
+| Y | default/inf.4092 |
+| Z | default/inf.4093 |
 
 ---
 
